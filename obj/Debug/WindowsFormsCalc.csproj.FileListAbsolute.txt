@@ -1,0 +1,9 @@
+C:\Users\Dim\source\repos\WindowsFormsCalc\bin\Debug\WindowsFormsCalc.exe.config
+C:\Users\Dim\source\repos\WindowsFormsCalc\bin\Debug\WindowsFormsCalc.exe
+C:\Users\Dim\source\repos\WindowsFormsCalc\bin\Debug\WindowsFormsCalc.pdb
+C:\Users\Dim\source\repos\WindowsFormsCalc\obj\Debug\WindowsFormsCalc.csprojAssemblyReference.cache
+C:\Users\Dim\source\repos\WindowsFormsCalc\obj\Debug\WindowsFormsCalc.Form1.resources
+C:\Users\Dim\source\repos\WindowsFormsCalc\obj\Debug\WindowsFormsCalc.Properties.Resources.resources
+C:\Users\Dim\source\repos\WindowsFormsCalc\obj\Debug\WindowsFormsCalc.csproj.GenerateResource.cache
+C:\Users\Dim\source\repos\WindowsFormsCalc\obj\Debug\WindowsFormsCalc.exe
+C:\Users\Dim\source\repos\WindowsFormsCalc\obj\Debug\WindowsFormsCalc.pdb
